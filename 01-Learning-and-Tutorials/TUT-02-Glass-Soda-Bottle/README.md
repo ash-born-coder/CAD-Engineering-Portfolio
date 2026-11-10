@@ -1,4 +1,4 @@
-# TUT-0002 — Glass Soda Bottle
+# TUT-02 — Glass Soda Bottle
 
 ![Glass Soda Bottle — Fusion 360](preview.png)
 
