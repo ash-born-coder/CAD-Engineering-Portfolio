@@ -1,5 +1,7 @@
 # TUT-0002 — Glass Soda Bottle
 
+![Glass Soda Bottle — Fusion 360](preview.png)
+
 ## Overview
 
 This project explores reverse modeling in Autodesk Fusion 360 by recreating a glass soda bottle from a reference image.
