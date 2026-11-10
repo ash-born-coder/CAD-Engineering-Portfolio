@@ -1,4 +1,4 @@
-# TUT-0001 — 2×4 Toy Block
+# TUT-01 — 2×4 Toy Block
 
 ![2×4 Toy Block](preview.png)
 
