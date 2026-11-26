@@ -12,7 +12,7 @@ I created this model while following a beginner tutorial to become more familiar
 
 | Property | Details |
 |---|---|
-| Design ID | TUT-0001 |
+| Design ID | TUT-01 |
 | Software | Autodesk Fusion 360 |
 | Category | Tutorial / Learning |
 | Model | 2×4 Toy Block |
