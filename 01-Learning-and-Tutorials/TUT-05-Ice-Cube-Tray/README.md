@@ -1,6 +1,6 @@
-# TUT-05 — Compartment Tray
+# TUT-05 — Ice Cube Tray
 
-![Compartment Tray](preview.png)
+![Ice Cube Tray](preview.png)
 
 ## Overview
 
